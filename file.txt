@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-fdgdfgdfgdfgdfgdfgS
-=======
-sdsdsacvfdgfgh
->>>>>>> branch2
-we
+we do it
